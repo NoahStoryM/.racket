@@ -2,5 +2,6 @@ css-expr
 drracket-vim-tool
 html-parsing
 pict3d
+pie
 rash
 txexpr
