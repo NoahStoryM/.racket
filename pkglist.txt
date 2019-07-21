@@ -1,4 +1,5 @@
 css-expr
+disassemble
 drracket-vim-tool
 html-parsing
 pict3d
