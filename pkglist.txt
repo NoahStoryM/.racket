@@ -2,6 +2,7 @@ css-expr
 disassemble
 drracket-vim-tool
 html-parsing
+pfds
 pict3d
 pie
 rash
