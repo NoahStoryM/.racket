@@ -6,4 +6,5 @@ pfds
 pict3d
 pie
 rash
+simple-xlsx
 txexpr
