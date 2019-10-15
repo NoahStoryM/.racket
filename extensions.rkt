@@ -3,8 +3,8 @@
 
   (define-syntax case-λ
     (syntax-rules ()
-      [(_ (param body) ...)
-       (case-lambda (param body) ...)]))
+      [(_ (param body ...) ...)
+       (case-lambda (param body ...) ...)]))
 
   (define-syntax match-λ
     (syntax-rules ()
