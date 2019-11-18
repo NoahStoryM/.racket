@@ -1,6 +1,7 @@
 css-expr
 disassemble
 drracket-vim-tool
+functional
 hackett
 html-parsing
 pfds
