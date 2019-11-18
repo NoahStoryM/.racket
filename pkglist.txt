@@ -1,11 +1,13 @@
 css-expr
 disassemble
 drracket-vim-tool
+hackett
 html-parsing
 pfds
 pict3d
 pie
 rash
+readline-gpl
 sicp
 simple-xlsx
 txexpr
