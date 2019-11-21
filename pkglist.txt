@@ -12,3 +12,5 @@ readline-gpl
 sicp
 simple-xlsx
 txexpr
+vulkan
+
