@@ -4,6 +4,7 @@ drracket-vim-tool
 functional
 hackett
 html-parsing
+iracket
 pfds
 pict3d
 pie
