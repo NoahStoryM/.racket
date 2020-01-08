@@ -1,4 +1,5 @@
 css-expr
+beautiful-racket
 disassemble
 drracket-vim-tool
 functional
