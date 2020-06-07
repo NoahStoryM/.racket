@@ -12,6 +12,7 @@ opencv
 pfds
 pict3d
 pie
+plai-typed
 racket-langserver
 rash
 readline-gpl
