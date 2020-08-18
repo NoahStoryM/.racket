@@ -3,6 +3,7 @@ colors
 beautiful-racket
 disassemble
 drracket-vim-tool
+frtime
 functional
 hackett
 html-parsing
