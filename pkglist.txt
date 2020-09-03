@@ -4,6 +4,7 @@ beautiful-racket
 disassemble
 drracket-vim-tool
 functional
+graph
 hackett
 html-parsing
 iracket
