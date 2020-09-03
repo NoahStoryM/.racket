@@ -14,9 +14,11 @@ pfds
 pict3d
 pie
 plai-typed
+pprint
 racket-langserver
 rash
 readline-gpl
+reprovide-lang-lib
 sicp
 simple-xlsx
 txexpr
