@@ -22,5 +22,6 @@ readline-gpl
 reprovide-lang-lib
 sicp
 simple-xlsx
+sql
 txexpr
 vulkan
