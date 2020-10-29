@@ -6,6 +6,7 @@ disassemble
 drracket-vim-tool
 functional
 graph
+gregor
 hackett
 html-parsing
 iracket
