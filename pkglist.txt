@@ -11,6 +11,7 @@ gregor
 hackett
 html-parsing
 iracket
+libuuid
 nanopass
 opencv
 pfds
@@ -21,6 +22,7 @@ pprint
 racket-langserver
 rash
 readline-gpl
+redis
 reprovide-lang-lib
 sicp
 simple-xlsx
