@@ -4,7 +4,9 @@ c-utils
 colors
 css-expr
 disassemble
+dotenv
 drracket-vim-tool
+envy
 functional
 graph
 gregor
