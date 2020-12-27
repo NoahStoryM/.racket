@@ -25,5 +25,6 @@ reprovide-lang-lib
 sicp
 simple-xlsx
 sql
+sxml
 txexpr
 vulkan
