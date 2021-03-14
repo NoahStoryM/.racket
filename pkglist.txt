@@ -27,6 +27,7 @@ rash
 readline-gpl
 redis
 reprovide-lang-lib
+scribble-math
 sicp
 simple-xlsx
 sql
