@@ -1,6 +1,7 @@
 argo
 beautiful-racket
 c-utils
+ckanren
 colors
 css-expr
 disassemble
