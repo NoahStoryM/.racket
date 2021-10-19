@@ -36,3 +36,4 @@ sql
 sxml
 txexpr
 vulkan
+webscraperhelper
