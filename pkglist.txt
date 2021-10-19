@@ -13,6 +13,7 @@ graph
 gregor
 hackett
 html-parsing
+html-writing
 iracket
 libuuid
 minikanren
