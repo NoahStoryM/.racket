@@ -36,5 +36,6 @@ simple-xlsx
 sql
 sxml
 txexpr
+typed-compose
 vulkan
 webscraperhelper
