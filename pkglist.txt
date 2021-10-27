@@ -4,6 +4,8 @@ c-utils
 ckanren
 colors
 css-expr
+csv-reading
+csv-writing
 disassemble
 dotenv
 drracket-vim-tool
