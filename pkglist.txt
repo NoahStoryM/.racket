@@ -1,7 +1,7 @@
 argo
 beautiful-racket
 c-utils
-ckanren
+cKanren
 colors
 css-expr
 csv-reading
