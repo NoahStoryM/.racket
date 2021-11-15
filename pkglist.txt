@@ -6,6 +6,7 @@ colors
 css-expr
 csv-reading
 csv-writing
+deta
 disassemble
 dotenv
 drracket-vim-tool
