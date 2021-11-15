@@ -18,6 +18,7 @@ html-parsing
 html-writing
 iracket
 libuuid
+markdown
 minikanren
 nanopass
 opencv
@@ -26,6 +27,7 @@ pict3d
 pie
 plai-typed
 pprint
+qi
 racket-langserver
 racquel
 rash
@@ -36,8 +38,12 @@ scribble-math
 sicp
 simple-xlsx
 sql
+sugar
 sxml
+text-table
+threading
 txexpr
 typed-compose
+urlang
 vulkan
 webscraperhelper
