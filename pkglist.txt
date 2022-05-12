@@ -11,6 +11,7 @@ disassemble
 dotenv
 drracket-vim-tool
 envy
+from-template
 functional
 graph
 gregor
