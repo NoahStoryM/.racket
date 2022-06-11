@@ -3,6 +3,7 @@ beautiful-racket
 c-utils
 cKanren
 colors
+crypto
 css-expr
 csv-reading
 csv-writing
