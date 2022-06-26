@@ -35,6 +35,7 @@ racket-langserver
 racquel
 rash
 readline-gpl
+rebellion
 redis
 reprovide-lang-lib
 scribble-math
