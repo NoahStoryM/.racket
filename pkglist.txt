@@ -38,6 +38,7 @@ readline-gpl
 rebellion
 redis
 reprovide-lang-lib
+resyntax
 scribble-math
 sicp
 simple-xlsx
