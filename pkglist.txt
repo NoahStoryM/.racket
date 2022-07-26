@@ -12,6 +12,7 @@ disassemble
 dotenv
 drracket-vim-tool
 envy
+fancy-app
 from-template
 functional
 graph
