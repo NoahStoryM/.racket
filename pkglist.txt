@@ -1,3 +1,4 @@
+adjutor
 argo
 beautiful-racket
 c-utils
@@ -45,6 +46,7 @@ sicp
 simple-xlsx
 sql
 sugar
+super
 sxml
 text-table
 threading
