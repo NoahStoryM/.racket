@@ -33,6 +33,7 @@ pie
 plai-typed
 pprint
 qi
+qi-cat
 racket-langserver
 racquel
 rash
