@@ -43,6 +43,7 @@ rebellion
 redis
 reprovide-lang-lib
 resyntax
+rfc6455
 scribble-math
 sicp
 simple-xlsx
