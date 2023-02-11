@@ -8,6 +8,7 @@ crypto
 css-expr
 csv-reading
 csv-writing
+date
 deta
 disassemble
 dotenv
