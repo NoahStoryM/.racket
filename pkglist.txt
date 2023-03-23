@@ -25,6 +25,7 @@ html-writing
 iracket
 libuuid
 markdown
+malt
 minikanren
 nanopass
 opencv
