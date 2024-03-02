@@ -46,6 +46,7 @@ redis
 reprovide-lang-lib
 resyntax
 rfc6455
+scribble-abbrevs
 scribble-math
 sicp
 simple-xlsx
