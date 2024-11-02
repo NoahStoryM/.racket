@@ -57,7 +57,10 @@ sxml
 text-table
 threading
 txexpr
+typed-amb
 typed-compose
+typed-data-queue
+typed-racket-stream
 urlang
 vulkan
 webscraperhelper
