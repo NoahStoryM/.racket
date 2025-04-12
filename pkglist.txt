@@ -1,5 +1,4 @@
 adjutor
-amb
 argo
 beautiful-racket
 c-utils
@@ -29,6 +28,7 @@ markdown
 malt
 minikanren
 nanopass
+new
 opencv
 pfds
 pict3d
@@ -59,7 +59,9 @@ threading
 txexpr
 typed-amb
 typed-compose
-typed-data-queue
+typed-data-queue-lab
+typed-goto
+typed-racket-mutable-treelist-lab
 typed-racket-stream
 urlang
 vulkan
